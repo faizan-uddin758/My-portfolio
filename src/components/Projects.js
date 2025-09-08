@@ -6,8 +6,8 @@ function Projects() {
       <h2>Projects</h2>
       <div className="project-list">
         <div className="project-card">
-          <h3>Expense Tracker</h3>
-          <p>Track your expenses with Firebase and Redux.</p>
+          <h3>Food delivery app</h3>
+          <p>A Food Delivery application that allows users to browse restaurants!</p>
           <a
             href="https://fz-food-delivery-app.netlify.app/"
             target="_blank"
@@ -17,8 +17,8 @@ function Projects() {
           </a>
         </div>
         <div className="project-card">
-          <h3>Redux Calculator</h3>
-          <p>A calculator built with Redux state management.</p>
+          <h3>Expense tracker</h3>
+          <p>Track your daily expenses and watvh it in form of table and graph!</p>
           <a
             href="https://fz-expense-tracker-app.netlify.app/"
             target="_blank"
@@ -28,8 +28,8 @@ function Projects() {
           </a>
         </div>
         <div className="project-card">
-          <h3>Redux Calculator</h3>
-          <p>A calculator built with Redux state management.</p>
+          <h3>Redux User-list</h3>
+          <p>user list using redux wich fetch random users!</p>
           <a
             href="https://redux-todoo-list-app.netlify.app/"
             target="_blank"
